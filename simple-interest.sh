@@ -1,4 +1,4 @@
-# Here is new update in formula of SI by <riya-ri> 
+# Here is new update on  formula of Simple Interst under comment section by <riya-ri> 
 #!/bin/bash
 # This script calculates simple interest given principal, annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
